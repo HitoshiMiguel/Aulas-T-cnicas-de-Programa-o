@@ -15,7 +15,7 @@ public class testeCommit {
 	y = ler.nextInt();
 	
 	soma = x + y;
-	System.out.println(soma);
+	System.out.println("O resultado da soma é:"+soma);
 	}
 
 }
