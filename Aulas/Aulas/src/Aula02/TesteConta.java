@@ -14,7 +14,7 @@ public class TesteConta {
 	msg_erro = "\n Operação não realizada";
 	c.numero = 123;
 	c.saldo = 500;
-	c.titular = "José Santos";
+	c.titular.nome = "José";
 	JOptionPane.showMessageDialog(null, "\n Saldo inicial " + c.saldo);
 	System.out.println("\n Saldo Inicial R$" + c.saldo);
 	if(c.sacar(2000))
