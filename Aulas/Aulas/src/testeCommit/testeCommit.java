@@ -16,6 +16,8 @@ public class testeCommit {
 	
 	soma = x + y;
 	System.out.println("O resultado da soma é:"+soma);
+	
+	//Teste commit pc de casa
 
 	}
 
